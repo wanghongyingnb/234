@@ -1,13 +1,13 @@
 {
-    "name": "HerokuShell Rclone",
-    "description": "Bot to interface Heroku shell through Telegram (with Rclone)",
+    "name": "test robot for learning python",
+    "description": "Bot",
     "keywords": [
-        "telegram",
+        "123",
         "shell",
-        "rclone",
+        "python",
         "heroku"
     ],
-    "repository": "https://github.com/eliasbenb/HerokuShell-Rclone.git",
+    "repository": "https://github.com/wanghongyingnb/234.git",
     "env": {
       "BOT_TOKEN": {
         "description": "The bot token provided by @BotFather",
